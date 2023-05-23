@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Irenaeus-XVI](https://github.com/Irenaeus-XVI)
+- 👨‍💻 All of my projects are available at [GitHub-Reposatories](https://github.com/Irenaeus-XVI)
 
 - 📫 How to reach me **ehabtarek144@gmail.com**
 
-- 📄 Know about my experiences [My-Cv](https://drive.google.com/file/d/15hSDiDtCR1Df0gIECVPNVHSu6oLRmaHs/view?usp=sharing))
+- 📄 Know about my experiences [My-Cv](https://drive.google.com/file/d/15hSDiDtCR1Df0gIECVPNVHSu6oLRmaHs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
