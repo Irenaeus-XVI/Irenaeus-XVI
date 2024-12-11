@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Ehab_Tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ehab_tarek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ehab-tarek-737b041b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ehab-tarek-737b041b8/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ehab-tarek-737b041b8/](https://www.linkedin.com/in/https://www.linkedin.com/in/ehab-tarek-737b041b8/?_l=en_US)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ehab-tarek-737b041b8/" height="30" width="40" /></a>
 <a href="https://discord.gg/Irenaeus#2129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Irenaeus#2129" height="30" width="40" /></a>
 </p>
 
